@@ -1,0 +1,13 @@
+{
+  "name": "genpark-peephole-optimizer-pattern-rewriter-skill",
+  "version": "1.0.0",
+  "description": "Multi-pass peephole optimizer performing algebraic identity reductions, shift strength reductions, and redundant copy eliminations.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "peephole-optimization",
+    "pattern-rewriting",
+    "strength-reduction",
+    "ir-transform"
+  ]
+}
